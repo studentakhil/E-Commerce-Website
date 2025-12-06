@@ -4,12 +4,9 @@
 
 <h1 align="center">E-Commerce Website</h1>
 
-<p align="center">
-  Designed by: <a href="https://dribbble.com/mdrimel15" target="_blank">mdrimel15</a>, 
-  Design on <a href="https://www.figma.com/file/bwhp2Q5jdzJDIw5YIsBlXe/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=34%3A213&mode=design" target="_blank">Figma</a>
-</p>
 
-## 2. Technologies Used
+
+## 1. Technologies Used
 
 - [Progressive Web App](https://vite-pwa-org.netlify.app) for web app features
 - [Postcss plugin](https://www.npmjs.com/package/postcss) for auto prefix CSS properties
@@ -21,7 +18,7 @@
 - [Swiper](https://swiperjs.com/react) for carousel slider
 - [React-i18next](https://react.i18next.com) for multi language website
 
-## 3. Features
+## 2. Features
 
 1. **User Authentication and Account Management:**
    Secure user registration and login functionalities.
@@ -47,7 +44,7 @@
 8. **Fully Responsive Design:**
    Enjoy a responsive and user-friendly experience across all devices, including desktops, tablets, and mobile phones.
 
-## 5. Style helper
+## 3. Style helper
 
 #### 1. Colors
 
