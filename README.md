@@ -9,36 +9,7 @@
   Design on <a href="https://www.figma.com/file/bwhp2Q5jdzJDIw5YIsBlXe/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=34%3A213&mode=design" target="_blank">Figma</a>
 </p>
 
-> [!Note]
-> This project was featured on <a href="https://www.codewithrandom.com/2024/06/04/create-e-commerce-website-using-react" target="_blank">CodeWithRandom</a>. Please give credit to the original repository: <a href="https://github.com/Moamal-2000/e-commerce">https://github.com/Moamal-2000/e-commerce</a>
-
-## 1. Installation
-
-**1. Clone the repository:**
-
-```bash
-git clone git@github.com:Moamal-2000/e-commerce.git
-```
-
-**2. Install dependencies:**
-
-```bash
-npm install
-```
-
-**3. Start the development server:**
-
-```bash
-npm run dev
-```
-
-## 2. Copyright
-
-You are welcome to use and modify the codebase for personal and educational purposes. However, please respect the original designer's work and do not use this project for commercial purposes without appropriate permissions.
-
-© 2024 Moamal Alaa Kareem | All rights reserved.
-
-## 3. Technologies Used
+## 2. Technologies Used
 
 - [Progressive Web App](https://vite-pwa-org.netlify.app) for web app features
 - [Postcss plugin](https://www.npmjs.com/package/postcss) for auto prefix CSS properties
@@ -50,7 +21,7 @@ You are welcome to use and modify the codebase for personal and educational purp
 - [Swiper](https://swiperjs.com/react) for carousel slider
 - [React-i18next](https://react.i18next.com) for multi language website
 
-## 4. Features
+## 3. Features
 
 1. **User Authentication and Account Management:**
    Secure user registration and login functionalities.
